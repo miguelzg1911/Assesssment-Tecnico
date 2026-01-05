@@ -1,0 +1,12 @@
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/bin/Debug/net8.0/Cursos.Domain.deps.json
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/bin/Debug/net8.0/Cursos.Domain.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/bin/Debug/net8.0/Cursos.Domain.pdb
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/Cursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/Cursos.Domain.AssemblyInfoInputs.cache
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/Cursos.Domain.AssemblyInfo.cs
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/Cursos.Domain.csproj.CoreCompileInputs.cache
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/Cursos.Domain.sourcelink.json
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/Cursos.Domain.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/refint/Cursos.Domain.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/Cursos.Domain.pdb
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Domain/obj/Debug/net8.0/ref/Cursos.Domain.dll
