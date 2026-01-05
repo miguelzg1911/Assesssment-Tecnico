@@ -14,3 +14,7 @@
 /home/miguelzapata/Assesssment-Tecnico/Cursos.Application/obj/Debug/net8.0/refint/Cursos.Application.dll
 /home/miguelzapata/Assesssment-Tecnico/Cursos.Application/obj/Debug/net8.0/Cursos.Application.pdb
 /home/miguelzapata/Assesssment-Tecnico/Cursos.Application/obj/Debug/net8.0/ref/Cursos.Application.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Application/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Application/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Application/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.xml
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Application/bin/Debug/net8.0/Microsoft.Extensions.Primitives.xml

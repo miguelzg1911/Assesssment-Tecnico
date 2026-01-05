@@ -110,3 +110,12 @@
 /home/miguelzapata/Assesssment-Tecnico/Cursos.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Cursos.Api.props
 /home/miguelzapata/Assesssment-Tecnico/Cursos.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Cursos.Api.props
 /home/miguelzapata/Assesssment-Tecnico/Cursos.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/miguelzapata/Assesssment-Tecnico/Cursos.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
